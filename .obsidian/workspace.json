@@ -148,6 +148,8 @@
   },
   "active": "e53aa05bf08e7269",
   "lastOpenFiles": [
+    "app/Events/PusherBroadcast.php",
+    "app/Events",
     "storage/logs/laravel.log",
     "app/Http/Controllers/ChatController.php",
     "storage/framework/sessions/muUA9IFVPUMPZbjNd2gMN71dL0zLeCpKWHmLLSAM",
@@ -157,8 +159,6 @@
     "server.php",
     "phpunit.xml",
     "package.json",
-    "composer.lock",
-    "composer.json",
     "vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
