@@ -148,6 +148,8 @@
   },
   "active": "e53aa05bf08e7269",
   "lastOpenFiles": [
+    "app/Http/Controllers/PusherController.php",
+    "storage/framework/sessions/t7BfIxLmKYz2y80XAlIQ0HER56NtWfczIPQ81Uaj",
     "app/Events/PusherBroadcast.php",
     "app/Events",
     "storage/logs/laravel.log",
@@ -157,8 +159,6 @@
     "storage/framework/views/bf3652e0c7e5b1b28d6c4f313c9aa79d13f943e4.php",
     "webpack.mix.js",
     "server.php",
-    "phpunit.xml",
-    "package.json",
     "vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
