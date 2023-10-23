@@ -17,6 +17,9 @@
 </head>
 
 <body>
+<div class="pubble-app" data-app-id="123151" data-app-identifier="123151"></div>
+<script type="text/javascript" src="https://cdn.chatify.com/javascript/loader.js" defer></script>
+
 <div class="chat">
 
   <!-- Header -->
