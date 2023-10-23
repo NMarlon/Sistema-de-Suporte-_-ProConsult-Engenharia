@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Console",
+    "\\app\\Events",
+    "\\app\\Exceptions",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\laravel-test",
+    "\\resources",
+    "\\routes"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\PusherController.php",
+  "PreviewInSolutionExplorer": false
+}
