@@ -1,4 +1,4 @@
-_Usei, além do Laravel, duas API's, uma para o banco de dados e login+cadastro de usuário (Pusher) e outra para o chat (Chatify). É o PHP 7.2. Ficou simplificado, rápido e seguro por ser feito com uma API._
+_Usei, além do Laravel, duas API's, uma para o banco de dados e login+cadastro de usuário (Pusher) e outra para o chat (Chatify). É o PHP 7.2. Ficou simplificado, rápido e seguro por ser feito com uma API._ Eu só consegui terminar de fazer a API funcionar no último momento, eu preciso de mais tempo para implementar as outras funções como login com CPF, relação Cliente-Colaborador, apenas Clientes abrirem chamado. O que pude entregar para hoje foi a função de Login e Chat funcionais com banco de dados.
 
 # Resultado
 
