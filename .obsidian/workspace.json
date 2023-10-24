@@ -11,8 +11,12 @@
             "id": "49fcdc61a839be4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,8 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e53aa05bf08e7269",
+  "active": "49fcdc61a839be4f",
   "lastOpenFiles": [
+    "README.md",
     "storage/framework/views/c36f4a86c7359c394ae1bcc54ff506b9682f2fd8.php",
     "storage/framework/views/b6b73ded2dbf7246f392ef0dc2ff676662adbeaa.php",
     "storage/framework/views/6b3e8d60ff15ecb4f7d55d713d3e02f87090b2e7.php",
@@ -152,7 +159,6 @@
     "storage/framework/views/8922a29e8da6db661380b3cdfba7b3947b88f4ff.php",
     "node_modules/mini-css-extract-plugin/node_modules/schema-utils/package.json",
     "node_modules/mini-css-extract-plugin/dist/hmr/normalize-url.js",
-    "node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js",
     "node_modules/jquery/README.md",
     "node_modules/kind-of/README.md",
     "node_modules/kind-of/CHANGELOG.md",
